@@ -1,4 +1,4 @@
-# 🦷 MCP Server - Clínica Odontológica
+# 🦷 MCP Server - Clínica 
 
 Este projeto implementa um agente inteligente (MCP) capaz de executar **fluxos completos de atendimento odontológico**, como agendamento, cancelamento e consulta de pacientes e horários.
 
